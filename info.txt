@@ -1,0 +1,11 @@
+1. Регистрация команды:
+https://forms.yandex.ru/u/65f8140aeb61460e9dfe5d6f/
+
+2. PDF-инструкция:
+https://drive.google.com/file/d/1cmf9tam15Emj3rjK1StQvipiYaiEfBYI/view?usp=sharing
+
+3. Примеры роботов: 
+https://github.com/topics/fabrika-bots
+
+4. Слайды: 
+https://docs.google.com/presentation/d/1iT_3Tgv5eHEdcwaRxe1Pmts1KltQsxQvUUnPDSrhpL8/edit?usp=sharing
